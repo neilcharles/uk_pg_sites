@@ -1,6 +1,4 @@
 takeoff_name,takeoff_lat,takeoff_lon,telegram_group_name,telegram_group_link,exclude,notes,site_guide
-100 House,52.16338,-3.33262,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,
-Aberedw,52.164615,-3.3347,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,
 Aberfoyle,56.18777,-4.40283,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,
 Abernant,51.76015,-3.89551,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,
 Abernethy,56.32487,-3.32118,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,
@@ -24,7 +22,7 @@ Lord Herefords Kno,52.00996,-3.12255,South Wales,https://t.me/joinchat/ksosguoLj
 Meall Amhadaidh,56.395415,-4.2764,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,
 Suidh A Mhinn,57.63479,-6.35319,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,
 Tap Onoth,57.3503,-2.85748,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,
-Bache,52.2653,-3.142735,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,,
+Bache,52.2653,-3.142735,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,TRUE,Site guide lists as closed,https://paraglidingwales.co.uk/bache-hill/
 Backbarrow,54.44115,-3.343665,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,
 Balladen,53.68761,-2.27285,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,http://www.penninesoaringclub.org.uk/sites/balladen/
 Ballard Down,50.63087,-1.94635,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,
@@ -98,7 +96,6 @@ Bruthac Nan Uamh,57.1652,-4.99246,Highlands,https://t.me/joinchat/gx0JDL-JdONiMG
 Bryn Banog,52.98795,-4.12414,North Wales,https://t.me/joinchat/tP6m0r9gNJJmOTM8,,,
 Bryncaws,51.71236,-3.78954,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,
 Buck Of Cabrach,57.29813,-2.97968,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,
-Builth Wells,52.16302,-3.34222,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,http://www.joomla.malvern-hang.org.uk/index.php/builth-wells
 Bunster,53.06035,-1.791695,Central,https://t.me/joinchat/5iHr6hnc-gI4MDg0,,,https://www.paraguide.uk/guides/Bunster.pdf
 Burger Van,56.430315,-4.324195,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,
 Burn Fell,53.97338,-2.49325,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,
@@ -157,7 +154,7 @@ Cotterside,54.3376,-2.29659,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkM
 Cow Close Fell,54.15457,-2.17244,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,https://www.dhpc.org.uk/site-guide/cow-close-fell
 Cowden,53.863075,-0.12186,North East,https://t.me/joinchat/1uCqybLRETIyNTRk,,,
 Cowdown,50.797005,-2.51357,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,
-Cowlod,52.26499,-3.23585,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,,
+Cowlod,52.26499,-3.23585,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,,https://paraglidingwales.co.uk/cowlod/
 Crag Hill,54.571785,-3.24955,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,
 Cragdale Moor,54.24274,-2.149665,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,
 Craig Hulich,56.518175,-3.799075,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,
@@ -213,10 +210,10 @@ Farleton,54.21823,-2.70955,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMT
 Fast Heugh,55.54987,-2.95538,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,http://www.wingbeat-paragliding.co.uk/index.php/sites/fastheugh
 Feshiebridge,57.09047,-3.84713,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,
 Ffarmers,52.1126,-3.97267,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,
-Fforest Farm,52.16525,-3.33028,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,
+Fforest Fields,52.16525,-3.33028,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,https://paraglidingwales.co.uk/fforest-farm/
 Firle,50.83497,0.081015,South East,https://t.me/joinchat/GOaWSlE5YAswZjc0,,,https://shgc.org.uk/siteguidepdf
 Fochriw,51.73535,-3.306415,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,
-Foel Fadian,52.543825,-3.730015,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,,
+Foel Fadian,52.543825,-3.730015,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,,https://paraglidingwales.co.uk/general-information/foel/
 Foreman Hill,57.500895,-2.716795,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,
 Freathy,50.344935,-4.24835,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,
 Fremington,54.39755,-1.92925,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,https://www.dhpc.org.uk/site-guide/fremington-edge
@@ -464,7 +461,7 @@ Tinto East,55.60432,-3.65757,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,
 Tow Scar,54.1746,-2.480905,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,TRUE,Active Edge school site,
 Tops Of Fichell,56.79968,-3.01902,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,
 Treak Cliff,53.34285,-1.79862,Central,https://t.me/joinchat/5iHr6hnc-gI4MDg0,,,https://derbyshiresoaringclub.org.uk/site-guide/treak-cliff
-Tremmaen,52.163375,-3.340835,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,
+Tremaen,52.163375,-3.340835,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,https://paraglidingwales.co.uk/general-information/tremaen/
 Trentishoe,51.21494,-3.96708,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,https://ndhpc.co.uk/sites_guide/trentishoe
 Tresparret,50.71204,-4.65161,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,
 Triscombe,51.10595,-3.19767,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,
@@ -504,3 +501,4 @@ Yoke,54.450355,-2.86792,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,
 Gargunnock,56.11127,-4.08335,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,
 Pule,53.5902168,-1.9534149,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,Manually added,http://www.penninesoaringclub.org.uk/sites/pule-hill/
 Holme Moss,53.5320572,-1.8554027,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,Manually added,
+Beddugre Hill,52.3207433,-3.3395227,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,Manually added,https://paraglidingwales.co.uk/general-information/beddugre-hill/
