@@ -8,5 +8,13 @@ draw_sites_map <- function(){
                  crs = 4326) %>% 
     leaflet::leaflet() %>% 
       leaflet::addProviderTiles(leaflet::providers$OpenStreetMap) %>% 
-      leaflet::addMarkers(popup = ~takeoff_name)
+      leaflet::addCircleMarkers(popup = ~takeoff_name)
+}
+
+export_sites <- function(path = NULL){
+  readr::read_csv("sites.csv") %>% 
+    dplyr::filter(is.na(exclude) | !exclude) %>% 
+    dplyr::select(-exclude, -notes) %>% 
+    readr::write_csv(path)
+  
 }
