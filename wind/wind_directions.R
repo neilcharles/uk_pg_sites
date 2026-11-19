@@ -31,8 +31,11 @@ MIN_FLIGHTS    <- 10     # sites with fewer wind-tagged flights fall back to ter
 MIN_SECTOR_N   <- 3      # flights needed in a sector
 MIN_SECTOR_SHARE <- 0.03 # ...and share of the site's flights
 MIN_RATIO      <- 0.5    # ...and flights / climatology-expected flights
+STRONG_RATIO   <- 1.2    # a sector flown less than this (vs climatology) must also either...
+SPILL_FRAC     <- 0.3    # ...have >= this x its two neighbours' flights (not just ERA5 spillover)
+                         #    or be a terrain face
 TERRAIN_GRAD   <- 0.10   # ground must fall >= 10% to count as a face...
-TERRAIN_REL    <- 0.6    # ...and be >= 60% as steep as the steepest face at the site
+TERRAIN_REL    <- 0.7    # ...and be >= 70% as steep as the steepest face at the site
 
 pts <- c("N","NE","E","SE","S","SW","W","NW")
 to_sector <- function(deg) pts[(floor((deg + 22.5) / 45) %% 8) + 1]
@@ -115,8 +118,9 @@ fl <- flights %>% count(site_idx, clat, clon, sector) %>%
   complete(nesting(site_idx, clat, clon), sector = pts, fill = list(n = 0)) %>%
   left_join(clim, by = c("clat", "clon", "sector")) %>%
   group_by(site_idx) %>%
-  mutate(N = sum(n), share = n / N, ratio = n / (N * coalesce(p, 0.01))) %>% ungroup() %>%
-  mutate(ok = n >= MIN_SECTOR_N & share >= MIN_SECTOR_SHARE & ratio >= MIN_RATIO)
+  mutate(N = sum(n), share = n / N, ratio = n / (N * coalesce(p, 0.01)),
+         k = match(sector, pts), nb = n[match((k %% 8) + 1, k)] + n[match(((k - 2) %% 8) + 1, k)]) %>%
+  ungroup()
 
 # ---- terrain faces ----
 ter <- read_csv(terrain_path, show_col_types = FALSE)
@@ -132,8 +136,16 @@ tsec <- bind_rows(lapply(seq_along(pts), function(k) {
     summarise(g = max(g[bearing == b[2]], mean(g)), .groups = "drop") %>% mutate(sector = pts[k])
 })) %>% group_by(site_idx) %>%
   # a face = at least TERRAIN_GRAD steep and >= TERRAIN_REL of the site's steepest face
-  # (tuned against well-flown sites: ~83% of terrain faces match flights, ~79% of flown sectors found)
+  # (tuned against well-flown sites: ~80% of terrain faces match flights, ~73% of flown sectors found)
   mutate(face = g >= TERRAIN_GRAD & g >= TERRAIN_REL * max(g)) %>% ungroup()
+
+# A flown sector counts if it's flown repeatedly and not implausibly rarely for its wind; a
+# weakly-flown one (ratio < STRONG_RATIO) must also not be explained by ERA5 direction error
+# spilling over from a busy neighbouring sector, unless the takeoff has a face that way.
+# (Calibrated so e.g. Wether Fell SW - common wind, flown but only as spillover from W - drops.)
+fl <- fl %>% left_join(select(tsec, site_idx, sector, face), by = c("site_idx", "sector")) %>%
+  mutate(ok = n >= MIN_SECTOR_N & share >= MIN_SECTOR_SHARE & ratio >= MIN_RATIO &
+           (ratio >= STRONG_RATIO | n >= SPILL_FRAC * nb | coalesce(face, FALSE)))
 
 # ---- combine ----
 fmt <- function(s) paste(pts[pts %in% s], collapse = ",")
@@ -155,7 +167,7 @@ res <- res %>% mutate(
                               TRUE ~ ""))
 
 # Flag flight-derived sectors where the takeoff terrain rises into wind (possible lee / wrong site)
-lee <- fl %>% filter(ok) %>% inner_join(tsec, by = c("site_idx", "sector")) %>%
+lee <- fl %>% filter(ok) %>% select(-face) %>% inner_join(tsec, by = c("site_idx", "sector")) %>%
   group_by(site_idx) %>% filter(max(g) >= TERRAIN_GRAD, g < 0) %>%  # skip flat (tow) sites
   summarise(lee_sectors = fmt(sector))
 res <- res %>% left_join(lee, by = "site_idx")
