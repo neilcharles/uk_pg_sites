@@ -3,3 +3,5 @@
 .RData
 .Ruserdata
 wind/cache/
+
+wind/xc_flights_*.csv

@@ -12,15 +12,17 @@
 #
 # Usage (from repo root):
 #   Rscript wind/terrain.R sites.csv wind/cache/terrain.csv          # once, ~1 min
-#   Rscript wind/wind_directions.R <summary_archive.csv> [review.csv]
+#   Rscript wind/wind_directions.R [flights.csv] [review.csv]
+# flights.csv defaults to wind/xc_flights_to_2025.csv (the wingman-scraper summary archive; kept
+# out of git because it contains pilot names) and review.csv to wind/review.csv.
 # Wind data is cached in wind/cache/wind (resumable; ~8,000 Open-Meteo calls on first run,
 # which is within the free tier's 10,000/day if nothing else is using it).
 
 suppressPackageStartupMessages({library(dplyr); library(readr); library(tidyr); library(jsonlite)})
 
 args <- commandArgs(TRUE)
-flights_path <- args[1]
-review_path  <- if (length(args) > 1) args[2] else NA
+flights_path <- if (length(args) > 0) args[1] else "wind/xc_flights_to_2025.csv"
+review_path  <- if (length(args) > 1) args[2] else "wind/review.csv"
 sites_path   <- "sites.csv"
 cache_dir    <- "wind/cache/wind"
 terrain_path <- "wind/cache/terrain.csv"

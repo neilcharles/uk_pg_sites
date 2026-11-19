@@ -1,29 +1,29 @@
 takeoff_name,takeoff_lat,takeoff_lon,elevation,telegram_group_name,telegram_group_link,exclude,notes,site_guide,wind_directions,wind_source
 Aberfoyle,56.18777,-4.40283,358.43,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"SE,S,SW",flights
 Abernant,51.76015,-3.89551,290.48,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,E,flights
-Abernethy,56.32487,-3.32118,143.5,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,NE,NW",terrain
+Abernethy,56.32487,-3.32118,143.5,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,NW",terrain
 Abington,55.50938,-3.67677,351.54,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"W,NW",flights
 Achnasheen,57.543075,-5.13001,206.49,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"NE,E,SE",terrain
 Afton,50.67099,-1.47991,113.02,Isle of Wight,https://t.me/joinchat/tSmGEGKwsGpkMTg0,,,https://flywight.extremelynice.net/wp/wp-content/uploads/2017/03/iowhgpc-sites-guide_2019_03.pdf,"N,NE,NW",flights
 Airways,52.972635,-1.749035,177.82,Central,https://t.me/joinchat/5iHr6hnc-gI4MDg0,TRUE,Tow site,,"N,S,SW",few_flights
 Alcock Tarn,54.46255,-3.00033,458.7,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"SE,SW,W",flights
 Alva,56.161185,-3.8059,358,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"E,SE,S,SW",flights
-Alvie,57.160375,-3.92057,480.93,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"E,SE,S",terrain
+Alvie,57.160375,-3.92057,480.93,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"E,SE",terrain
 An Liathanach,57.56736,-5.099635,426.06,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"E,SE",flights
 An Soutar,57.36645,-4.89483,604.34,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"NE,E,S,SW,W",flights
-An Teallach,57.79052,-5.2443,916.91,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"N,NE,E,NW",terrain
+An Teallach,57.79052,-5.2443,916.91,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"N,NE,E",terrain
 Aonach Mor,56.842215,-4.97029,627.74,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,NE,E,NW",flights
 Arenig Fawr,52.91723,-3.7519,655.34,North Wales,https://t.me/joinchat/tP6m0r9gNJJmOTM8,,,https://www.snowdoniaskysports.co.uk/cms/node/19,"SW,W,NW",flights
-Arreton,50.681125,-1.2274,116.65,Isle of Wight,https://t.me/joinchat/tSmGEGKwsGpkMTg0,,,,"SE,S,SW",terrain
-Dragons Tail (Y Crib),51.972375,-3.1702,618.27,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"N,S,SW,NW",terrain
+Arreton,50.681125,-1.2274,116.65,Isle of Wight,https://t.me/joinchat/tSmGEGKwsGpkMTg0,,,,"S,SW",terrain
+Dragons Tail (Y Crib),51.972375,-3.1702,618.27,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"N,S,NW",terrain
 Gordies Pike,54.516775,-3.22876,598.81,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"N,NE,SW,W,NW",terrain
-Gummers How,54.28817,-2.93962,297.05,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"SW,W,NW",terrain
+Gummers How,54.28817,-2.93962,297.05,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"SW,W",terrain
 Lord Herefords Kno,52.00996,-3.12255,511.03,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,NW,flights
 Meall Amhadaidh,56.395415,-4.2764,464.63,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,SW,flights
-Suidh A Mhinn,57.63479,-6.35319,280.39,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"N,NE,W,NW",terrain
+Suidh A Mhinn,57.63479,-6.35319,280.39,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"N,W,NW",terrain
 Tap Onoth,57.3503,-2.85748,543.17,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"E,SE,S,SW",flights
 Bache,52.2653,-3.142735,521.29,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,TRUE,Site guide lists as closed,https://paraglidingwales.co.uk/bache-hill/,"SE,S",flights
-Backbarrow,54.44115,-3.343665,279.1,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"SE,S,SW",terrain
+Backbarrow,54.44115,-3.343665,279.1,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,S,terrain
 Balladen,53.68761,-2.27285,359.26,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,http://www.penninesoaringclub.org.uk/sites/balladen/,"NE,NW",few_flights
 Ballard Down,50.63087,-1.94635,113.18,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,http://www.wessexhgpg.org.uk/Sites/Siteguide/FullSiteGuide.pdf,"E,SE,S",flights
 Balquhidder,56.36606,-4.34925,564.95,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"S,SW",flights
@@ -41,47 +41,47 @@ Beinn A'chait,56.84425,-3.862515,750.05,Highlands,https://t.me/joinchat/gx0JDL-J
 Beinn A Chaorainn,56.918,-4.65657,814.68,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"SE,S",flights
 Beinn A Muice,57.41789,-4.951625,518.24,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"NE,E,SE,S",terrain
 Beinn Dorain,56.51697,-4.72987,831.22,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"W,NW",flights
-Beinn Eighe,57.58387,-5.38462,835.1,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"N,SE,S",terrain
+Beinn Eighe,57.58387,-5.38462,835.1,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,S,terrain
 Beinn Leabhainn,56.42644,-4.32405,559.26,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"W,NW",flights
 Beinn Lutharn Bheag,56.89547,-3.53437,914.08,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"N,NE,NW",terrain
 Beinn Na Feusaige,57.53746,-5.18294,576.67,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,SE,flights
-Beinn Narnain,56.218045,-4.78079,787.49,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,NE,E,S,SW,W",terrain
+Beinn Narnain,56.218045,-4.78079,787.49,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"NE,E,SW",terrain
 Bell Hill,50.8761,-2.28855,227.36,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,http://www.wessexhgpg.org.uk/Sites/SiteGuide/BellHill.pdf,"W,NW",flights
 Belstone,50.69908,-3.96592,405.94,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,https://sdhgpc.org.uk/sites/belstone,"NE,E",flights
-Ben Gulabin,56.8306,-3.4723,740.46,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"S,SW,W",flights
-Ben Hiel,58.416055,-4.398025,422.16,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"N,NE,E",terrain
+Ben Gulabin,56.8306,-3.4723,740.46,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"S,SW",flights
+Ben Hiel,58.416055,-4.398025,422.16,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"N,NE",terrain
 Ben Lawers,56.5277,-4.24297,845.09,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"SE,S,SW",flights
 Ben Ledi,56.25059,-4.30922,646.87,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,NE,E",flights
 Ben Luibhean,56.22953,-4.84298,647.38,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"S,SW,W,NW",terrain
-Ben More,56.385595,-4.542525,1081.03,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"S,SW,W,NW",terrain
-Ben Nevis,56.79638,-5.00398,1330.8,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,NE,E,SE,S,NW",terrain
+Ben More,56.385595,-4.542525,1081.03,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"SW,W",terrain
+Ben Nevis,56.79638,-5.00398,1330.8,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,S",terrain
 Ben Reid,56.860225,-3.118025,749.37,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"S,SW",terrain
 Ben Rinnes,57.403135,-3.239035,796.23,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,NE,SE",flights
 Ben Tirran,56.84645,-3.03435,746.49,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"S,SW,W",flights
-Ben Toaig,56.559805,-4.83574,612.36,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"E,SE,S",flights
-Ben Uarie,58.12663,-3.81967,465.35,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"N,NE,E",terrain
-Ben Vorlich,56.366585,-4.245115,569.27,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,W,NW",terrain
+Ben Toaig,56.559805,-4.83574,612.36,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"SE,S",flights
+Ben Uarie,58.12663,-3.81967,465.35,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"N,NE",terrain
+Ben Vorlich,56.366585,-4.245115,569.27,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,NW",terrain
 Ben Wyvis,57.682625,-4.55451,572.08,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,NE,terrain
 Bewaldeth,54.714535,-3.22439,282.49,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=BWD,"SW,W",flights
 Bin Of Cullen,57.66573,-2.87393,297.49,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,NE",flights
 Birks Hill,55.58999,-3.13455,521.31,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"E,SE,S",terrain
 Bishop,56.21678,-3.31957,400.45,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"SW,W",flights
-Black Combe,54.26295,-3.35297,253.88,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=BCE,"SW,W",flights
+Black Combe,54.26295,-3.35297,253.88,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=BCE,W,flights
 Black Combe East,54.253165,-3.317135,403.74,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"SE,S",flights
 Black Craig,55.22767,-4.35264,440.04,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"SW,W",terrain
 Black Hill,52.00213,-3.05463,603.42,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"NE,E",flights
-Black Mount,56.586475,-4.73331,416.79,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,W,NW",terrain
-Blackers Hole,50.59345,-1.9853,109.46,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,,"SE,S,SW",terrain
-Blackmount,56.58578,-4.76467,476.45,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,NE,E,NW",terrain
+Black Mount,56.586475,-4.73331,416.79,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"W,NW",terrain
+Blackers Hole,50.59345,-1.9853,109.46,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,,"S,SW",terrain
+Blackmount,56.58578,-4.76467,476.45,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,NE,NW",terrain
 Blaenavon (Gb),51.78122,-3.13877,529.53,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"N,NE,E",terrain
 Blease Fell,54.62548,-3.07365,503.18,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=BLF,"SE,S",flights
 Blencathra,54.6401,-3.05068,846.38,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"E,S",flights
-Blorenge,51.80443,-3.0512,502.25,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"N,NE,E,SE",flights
+Blorenge,51.80443,-3.0512,502.25,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"N,NE,SE",flights
 Blua Crags,54.069315,-2.26176,370.08,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,TRUE,Active Edge school site,,"S,SW,W",terrain
-Bo Peep,50.82066,0.1285,170.35,South East,https://t.me/joinchat/GOaWSlE5YAswZjc0,,,https://shgc.org.uk/siteguidepdf,"N,NE,E",flights
+Bo Peep,50.82066,0.1285,170.35,South East,https://t.me/joinchat/GOaWSlE5YAswZjc0,,,https://shgc.org.uk/siteguidepdf,"NE,E",flights
 Bodesbeck Law,55.37974,-3.314925,612.37,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,http://www.wingbeat-paragliding.co.uk/index.php/sites/bodesbeck,"W,NW",flights
 Bow Scale Tarn,54.67045,-3.0308,587.29,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"N,NE",terrain
-Bowfell,54.4572,-3.1781,860.88,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"N,NE,E,W",terrain
+Bowfell,54.4572,-3.1781,860.88,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"N,NE,E",terrain
 Bradwell,53.321,-1.73005,364.13,Central,https://t.me/joinchat/5iHr6hnc-gI4MDg0,,,https://derbyshiresoaringclub.org.uk/site-guide/bradwell,"W,NW",flights
 Braemore Junction,57.76404,-4.99636,591.49,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"S,SW",terrain
 Brant Side,54.2758,-2.3437,505,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,,"SW,W",flights
@@ -99,8 +99,8 @@ Buck Of Cabrach,57.29813,-2.97968,677.15,South Scotland & Grampian,https://t.me/
 Bunster,53.06035,-1.791695,303.05,Central,https://t.me/joinchat/5iHr6hnc-gI4MDg0,,,https://www.paraguide.uk/guides/Bunster.pdf,"SE,S,SW",flights
 Burger Van,56.430315,-4.324195,535.04,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,W,NW",flights
 Burn Fell,53.97338,-2.49325,377.92,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,,"SE,S",flights
-Burnbank,54.57997,-3.37201,405.43,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=BNB,"N,NE,NW",flights
-Burney,54.26124,-3.13794,243.2,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=BNF,"SW,W,NW",terrain
+Burnbank,54.57997,-3.37201,405.43,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=BNB,"N,NE",flights
+Burney,54.26124,-3.13794,243.2,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=BNF,"SW,W",terrain
 Butser West,50.97682,-0.98785,237.08,South East,https://t.me/joinchat/GOaWSlE5YAswZjc0,,,http://skysurfingclub.co.uk/sites-guide/,"W,NW",flights
 Buttermere Moss,54.542225,-3.257675,509.52,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=BTM,"N,SW,W",flights
 Cacra,55.4435,-3.07375,443.17,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,http://www.wingbeat-paragliding.co.uk/index.php/sites/cacra-bank,"S,SW",terrain
@@ -112,59 +112,59 @@ Cairnwell,56.87667,-3.42092,863.86,South Scotland & Grampian,https://t.me/joinch
 Camlo,52.32208,-3.42097,440.86,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,,,"S,SW,W",flights
 Campsie Fells,55.992965,-4.218045,302.85,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"S,SW",terrain
 Captain Cooks,54.48282,-1.09143,322.04,North East,https://t.me/joinchat/1uCqybLRETIyNTRk,,,,"SW,W",terrain
-Cardon Hill,55.57002,-3.48178,619.28,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"N,NE,NW",terrain
-Carlton Bank,54.4155,-1.20225,383.38,North East,https://t.me/joinchat/1uCqybLRETIyNTRk,,,,"N,W,NW",flights
+Cardon Hill,55.57002,-3.48178,619.28,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"N,NE",terrain
+Carlton Bank,54.4155,-1.20225,383.38,North East,https://t.me/joinchat/1uCqybLRETIyNTRk,,,,"W,NW",flights
 Carn Ban,57.42762,-4.78808,507.36,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"S,SW,W",terrain
 Carn Brea,50.221315,-5.2496,202.26,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,,"N,NW",terrain
 Carn Dubh,57.00037,-4.44227,720.51,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"E,S",flights
 Carn Ghluasaid,57.15604,-5.075125,613.23,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"S,SW",flights
 Carn Liath,56.80353,-3.74793,850.38,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"S,SW,W",flights
 Carn Moine,57.0533,-3.27857,576.48,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"SE,S,SW",terrain
-Carn Na Caim,56.9202,-4.183075,759.35,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"N,SW,W,NW",terrain
+Carn Na Caim,56.9202,-4.183075,759.35,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"W,NW",terrain
 Carn Nam Feuaich,57.166375,-5.017715,701.37,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"SE,S,SW",flights
-Carrock Fell,54.69762,-3.015975,445.79,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=CRF,"N,NE,E",flights
+Carrock Fell,54.69762,-3.015975,445.79,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=CRF,"NE,E",flights
 Catacol,55.69668,-5.31787,196.61,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"S,SW,W",terrain
 Catbells,54.57328,-3.16953,311.94,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"NE,E",flights
 Cats Tor,53.28013,-2.00997,503.24,Central,https://t.me/joinchat/5iHr6hnc-gI4MDg0,,,https://derbyshiresoaringclub.org.uk/site-guide/cats-tor/,"W,NW",flights
-Cautley,54.37131,-2.481585,254.27,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,,"NE,E,SE,S,SW",flights
-Chalton,50.929515,-0.954245,118.1,South East,https://t.me/joinchat/GOaWSlE5YAswZjc0,,,,"NE,E,SE",terrain
+Cautley,54.37131,-2.481585,254.27,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,,"NE,SE,S,SW",flights
+Chalton,50.929515,-0.954245,118.1,South East,https://t.me/joinchat/GOaWSlE5YAswZjc0,,,,"NE,E",terrain
 Charmouth,50.733045,-2.89324,23.56,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,,"SE,S,SW,W",terrain
 Cherhill,51.42457,-1.93176,203.7,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,,"N,NW",terrain
-Chillerton,50.647735,-1.32695,142.39,Isle of Wight,https://t.me/joinchat/tSmGEGKwsGpkMTg0,,,https://flywight.extremelynice.net/wp/wp-content/uploads/2017/03/iowhgpc-sites-guide_2019_03.pdf,"NE,E,SE",flights
-Chinkwell Tor,50.588645,-3.797265,440.51,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,https://sdhgpc.org.uk/sites/chinkwell,"S,SW,W",terrain
+Chillerton,50.647735,-1.32695,142.39,Isle of Wight,https://t.me/joinchat/tSmGEGKwsGpkMTg0,,,https://flywight.extremelynice.net/wp/wp-content/uploads/2017/03/iowhgpc-sites-guide_2019_03.pdf,"E,SE",flights
+Chinkwell Tor,50.588645,-3.797265,440.51,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,https://sdhgpc.org.uk/sites/chinkwell,"SW,W",terrain
 Chinnor,51.69957,-0.89113,225.66,Dunstable,https://t.me/+zpCRlLWf29RmNTRk,,,https://dunstablehpc.com/site-guides/chinnor-site-guide/,NW,flights
-Choinneachain Hill,56.42272,-3.91312,474.52,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"S,SW,W",terrain
+Choinneachain Hill,56.42272,-3.91312,474.52,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"S,SW",terrain
 Clatter,52.557375,-3.469925,383.91,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,,,SW,flights
 Clough Head,54.5974,-3.04325,442.43,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=CLH,"W,NW",flights
 Cock Up,54.673275,-3.15,491.1,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"N,NE,NW",terrain
-Cocking Tor,53.1431,-1.48246,280.46,Central,https://t.me/joinchat/5iHr6hnc-gI4MDg0,,,https://derbyshiresoaringclub.org.uk/site-guide/cocking-tor/,"NE,E",flights
+Cocking Tor,53.1431,-1.48246,280.46,Central,https://t.me/joinchat/5iHr6hnc-gI4MDg0,,,https://derbyshiresoaringclub.org.uk/site-guide/cocking-tor/,NE,flights
 Codden Hill,51.04903,-4.02324,178.11,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,https://ndhpc.co.uk/sites_guide/codden_hill_guide,"N,NE,NW",flights
 Cogden,50.694735,-2.717035,26.69,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,,"S,SW,W",flights
 Coiliochbhar,57.23063,-2.81837,493.39,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,NE,flights
 Coire Nan Cisteachan,56.89856,-4.20522,866.06,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"W,NW",flights
 Combe Gibbet,51.35858,-1.480475,266.48,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,https://www.tvhgc.co.uk/combe-gibbet,"N,NW",flights
-Compton Reds,50.662695,-1.473465,43.34,Isle of Wight,https://t.me/joinchat/tSmGEGKwsGpkMTg0,,,https://flywight.extremelynice.net/wp/wp-content/uploads/2017/03/iowhgpc-sites-guide_2019_03.pdf,"S,SW,W",flights
+Compton Reds,50.662695,-1.473465,43.34,Isle of Wight,https://t.me/joinchat/tSmGEGKwsGpkMTg0,,,https://flywight.extremelynice.net/wp/wp-content/uploads/2017/03/iowhgpc-sites-guide_2019_03.pdf,"S,SW",flights
 Coniston Old Man,54.36845,-3.11632,634.91,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=COM,"NE,E,SE,S",flights
-Corn Ridge,50.68646,-4.04919,475.57,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,https://sdhgpc.org.uk/sites/corn-ridge,"N,NE,NW",flights
+Corn Ridge,50.68646,-4.04919,475.57,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,https://sdhgpc.org.uk/sites/corn-ridge,"N,NE",flights
 Corndon,52.56568,-3.02,478.68,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,,http://www.longmynd.org/?page_id=272,"N,NE,E,SE",flights
 Corney Fell,54.32188,-3.32382,439.16,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=CNF,"W,NW",terrain
-Corton Denham,51.007525,-2.524,149.71,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,http://www.wessexhgpg.org.uk/Sites/Siteguide/FullSiteGuide.pdf,"S,SW,W",terrain
+Corton Denham,51.007525,-2.524,149.71,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,http://www.wessexhgpg.org.uk/Sites/Siteguide/FullSiteGuide.pdf,"S,SW",terrain
 Cotterside,54.3376,-2.29659,468.03,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,,"S,SW",flights
-Cow Close Fell,54.15457,-2.17244,547.52,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,https://www.dhpc.org.uk/site-guide/cow-close-fell,"N,NE,NW",flights
+Cow Close Fell,54.15457,-2.17244,547.52,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,https://www.dhpc.org.uk/site-guide/cow-close-fell,"N,NE",flights
 Cowden,53.863075,-0.12186,15.42,North East,https://t.me/joinchat/1uCqybLRETIyNTRk,,,,"NE,E",flights
-Cowdown,50.797005,-2.51357,198.97,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,http://www.wessexhgpg.org.uk/Sites/Siteguide/FullSiteGuide.pdf,"W,NW",flights
-Cowlod,52.26499,-3.23585,461.62,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,,https://paraglidingwales.co.uk/cowlod/,"S,SW,W",terrain
-Crag Hill,54.571785,-3.24955,816.67,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"N,NE,E,SE,S",terrain
+Cowdown,50.797005,-2.51357,198.97,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,http://www.wessexhgpg.org.uk/Sites/Siteguide/FullSiteGuide.pdf,W,flights
+Cowlod,52.26499,-3.23585,461.62,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,,https://paraglidingwales.co.uk/cowlod/,"SW,W",terrain
+Crag Hill,54.571785,-3.24955,816.67,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"N,NE,S",terrain
 Cragdale Moor,54.24274,-2.149665,592.38,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,,"N,W,NW",terrain
 Craig Hulich,56.518175,-3.799075,527.85,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"SE,S,SW",terrain
 Craigellachie,57.189015,-3.85102,448.58,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"NE,E",terrain
 Craiglich,57.136735,-2.77367,460.51,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"SE,S",terrain
 Creag An Earbaill,57.29197,-5.55068,319.35,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"SE,S,SW",terrain
-Creag Dhubh,57.10048,-4.10193,665.64,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"SE,S,SW,W",terrain
-Creag Ghleannain,57.17835,-3.889825,549.81,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"E,SE,S,SW",terrain
+Creag Dhubh,57.10048,-4.10193,665.64,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"SE,S,SW",terrain
+Creag Ghleannain,57.17835,-3.889825,549.81,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"E,SE,S",terrain
 Creag Meagaidh,56.95488,-4.533125,628.66,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"E,SE,S",flights
 Creag Meageaidh,56.9712,-4.51507,762.31,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"N,SE,S,NW",flights
-Creag Mhigeachaidh,57.099135,-3.865565,675.91,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"W,NW",terrain
+Creag Mhigeachaidh,57.099135,-3.865565,675.91,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,NW,terrain
 Creag Na Caillich,56.494375,-4.346695,462.2,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"S,SW",terrain
 Creag Nan Gabhar,56.93675,-3.40203,724.4,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"S,SW,W,NW",flights
 Creag Ruadh,57.5474,-4.86833,431.3,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,SE,flights
@@ -190,10 +190,10 @@ Dumyat,56.1543,-3.88057,343.81,South Scotland & Grampian,https://t.me/joinchat/W
 Dungavel,55.55825,-3.68532,434.2,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"SW,W",flights
 Dunstable,51.869975,-0.53799,211.29,Dunstable,https://t.me/+zpCRlLWf29RmNTRk,,,https://dunstablehpc.com/site-guides/dunstable-downs-site-guide/,"SW,W,NW",flights
 East Hill,53.081195,-2.603665,71.91,North Wales,https://t.me/joinchat/tP6m0r9gNJJmOTM8,,,,,
-East Lomond,56.2422,-3.221405,435.8,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,NE,E,S,SW,W,NW",terrain
+East Lomond,56.2422,-3.221405,435.8,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,NE,SW,W,NW",terrain
 Ebbw Vale,51.7524,-3.20664,458.56,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"NE,E",terrain
 Ecton,53.11943,-1.8514,349.28,Central,https://t.me/joinchat/5iHr6hnc-gI4MDg0,,,,"NE,E",flights
-Edenfield,53.65658,-2.27196,378.89,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,http://www.penninesoaringclub.org.uk/sites/edenfield/,"SE,S,SW",flights
+Edenfield,53.65658,-2.27196,378.89,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,http://www.penninesoaringclub.org.uk/sites/edenfield/,"S,SW",flights
 Edge Top,53.18847,-1.9191,400.95,Central,https://t.me/joinchat/5iHr6hnc-gI4MDg0,,,,"S,SW,W",terrain
 Elan Valley,52.33142,-3.60265,449.57,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,,Members Only,"SW,W",flights
 Elidir Fach,53.13093,-4.09171,694.41,North Wales,https://t.me/joinchat/tP6m0r9gNJJmOTM8,,,https://www.snowdoniaskysports.co.uk/cms/node/8,"E,SE,SW,W,NW",flights
@@ -204,47 +204,47 @@ Eype,50.71583,-2.77895,59.3,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,
 Fairsnape,53.91597,-2.62577,494.43,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,http://www.penninesoaringclub.org.uk/sites/parlick/,"S,SW,W",flights
 Fan Brycheiniog,51.87991,-3.70435,711.26,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"NE,E",flights
 Fan Frynych,51.89755,-3.510595,576.33,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"N,W,NW",terrain
-Fan Gyhirych,51.85895,-3.62795,698.09,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"N,SW,W,NW",flights
+Fan Gyhirych,51.85895,-3.62795,698.09,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"SW,W,NW",flights
 Farleton,54.21823,-2.70955,217.3,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=FKT,"W,NW",flights
 Fast Heugh,55.54987,-2.95538,374.8,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,http://www.wingbeat-paragliding.co.uk/index.php/sites/fastheugh,"SW,W,NW",terrain
-Feshiebridge,57.09047,-3.84713,876.81,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"S,SW,W",terrain
+Feshiebridge,57.09047,-3.84713,876.81,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"SW,W",terrain
 Ffarmers,52.1126,-3.97267,359.04,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"E,SE,S",flights
-Fforest Fields,52.16525,-3.33028,379.94,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,https://paraglidingwales.co.uk/fforest-farm/,"N,NE,NW",flights
+Fforest Fields,52.16525,-3.33028,379.94,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,https://paraglidingwales.co.uk/fforest-farm/,"N,NE",flights
 Firle,50.83497,0.081015,145.46,South East,https://t.me/joinchat/GOaWSlE5YAswZjc0,,,https://shgc.org.uk/siteguidepdf,"N,NE,NW",flights
 Fochriw,51.73535,-3.306415,450.07,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,W,flights
 Foel Fadian,52.543825,-3.730015,540.75,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,,https://paraglidingwales.co.uk/general-information/foel/,"N,SW,W,NW",terrain
 Foreman Hill,57.500895,-2.716795,335.22,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,NE",terrain
-Freathy,50.344935,-4.24835,61.83,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,,"S,SW,W",flights
-Fremington,54.39755,-1.92925,405.59,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,https://www.dhpc.org.uk/site-guide/fremington-edge,"S,SW,W",terrain
+Freathy,50.344935,-4.24835,61.83,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,,"S,SW",flights
+Fremington,54.39755,-1.92925,405.59,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,https://www.dhpc.org.uk/site-guide/fremington-edge,"SW,W",terrain
 Friar Waddon,50.66747,-2.50895,114.84,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,,"SE,S,SW",terrain
-Frocester,51.70922,-2.29993,220.61,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,http://www.avonhgpg.co.uk/sites/sites.php,"SW,W",flights
+Frocester,51.70922,-2.29993,220.61,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,http://www.avonhgpg.co.uk/sites/sites.php,W,flights
 Fuar Mhonadh,56.85597,-4.21438,862.19,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"W,NW",flights
 Gallt Yr Ogof,53.10545,-3.95147,456.46,North Wales,https://t.me/joinchat/tP6m0r9gNJJmOTM8,,,,"N,NE",flights
 Gam Rhiw,52.24465,-3.52982,536.06,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,TRUE,Closed by National Trust,,"E,SE,S",terrain
-Gargunnock Hills,56.09398,-4.16061,291.84,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,SW,W,NW",terrain
+Gargunnock Hills,56.09398,-4.16061,291.84,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"W,NW",terrain
 Garret,53.130375,-4.09969,500.6,North Wales,https://t.me/joinchat/tP6m0r9gNJJmOTM8,,,,"SW,W",flights
-Garway,51.920355,-2.822335,351.44,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"SW,W,NW",flights
+Garway,51.920355,-2.822335,351.44,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"W,NW",flights
 Glen Clova,56.823025,-3.02755,288.8,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,,
 Glen Ogle,56.42518,-4.32393,566.45,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"W,NW",flights
-Glencoe,56.62842,-4.84147,723.21,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,NE,E,NW",flights
-Glenfinna,56.88111,-5.450175,325.5,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"SW,W,NW",terrain
+Glencoe,56.62842,-4.84147,723.21,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,NE,NW",flights
+Glenfinna,56.88111,-5.450175,325.5,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"SW,W",terrain
 Glyder,53.092355,-3.997325,499.54,North Wales,https://t.me/joinchat/tP6m0r9gNJJmOTM8,,,https://www.snowdoniaskysports.co.uk/cms/node/11,"N,SE,S,SW,W",flights
 Golden Ball,51.37275,-1.82039,250.44,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,https://www.tvhgc.co.uk/golden-ball,"SE,S,SW",flights
 Gorllwyn,52.95441,-4.13307,290.54,North Wales,https://t.me/joinchat/tP6m0r9gNJJmOTM8,,,,"SE,S,SW",terrain
-Gragareth,54.20421,-2.47841,596.27,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,TRUE,Active Edge school site,,"NE,E,SE,W",flights
-Graig Fawr,51.75305,-3.99029,236.61,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"N,NW",flights
+Gragareth,54.20421,-2.47841,596.27,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,TRUE,Active Edge school site,,"E,SE,W",flights
+Graig Fawr,51.75305,-3.99029,236.61,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,NW,flights
 Great Coum,54.24703,-2.45715,660.44,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,,"N,NE",flights
-Great Whernside,54.17188,-2.00633,630.19,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,https://www.dhpc.org.uk/site-guide/great-whernside,"SW,W,NW",terrain
-Green How,54.44812,-3.246415,497.81,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"N,SW,W,NW",terrain
-Greenhill,55.58776,-3.700225,446.74,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"SE,S,SW",flights
+Great Whernside,54.17188,-2.00633,630.19,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,https://www.dhpc.org.uk/site-guide/great-whernside,"SW,W",terrain
+Green How,54.44812,-3.246415,497.81,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"N,W,NW",terrain
+Greenhill,55.58776,-3.700225,446.74,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"S,SW",flights
 Grey Mares Tail,55.41957,-3.32182,668.83,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"E,SE",terrain
-Grey Scars,54.141255,-2.41602,392.46,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,,"SE,S,SW",terrain
+Grey Scars,54.141255,-2.41602,392.46,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,,"S,SW",terrain
 Gyrn Moelfre,52.85125,-3.20795,411.08,North Wales,https://t.me/joinchat/tP6m0r9gNJJmOTM8,,,,"SE,S",flights
 Haig,54.549675,-3.599365,-1.41,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=HGP,"W,NW",flights
 Hambledon,50.914615,-2.22205,176.06,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,http://www.wessexhgpg.org.uk/Sites/Siteguide/FullSiteGuide.pdf,"NE,E",flights
 Haresfield,51.7793,-2.25599,206.14,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,http://www.avonhgpg.co.uk/sites/sites.php,"S,SW",flights
-Harting,50.95948,-0.87007,206.69,South East,https://t.me/joinchat/GOaWSlE5YAswZjc0,,,http://skysurfingclub.co.uk/sites-guide/,"N,NE,NW",flights
-Haughmond Hill,52.719635,-2.687735,129.98,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,,,"S,SW,W,NW",terrain
+Harting,50.95948,-0.87007,206.69,South East,https://t.me/joinchat/GOaWSlE5YAswZjc0,,,http://skysurfingclub.co.uk/sites-guide/,"N,NE",flights
+Haughmond Hill,52.719635,-2.687735,129.98,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,,,"SW,W,NW",terrain
 Hawkswick,54.12898,-2.05297,373.19,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,,"S,SW",flights
 Hay Bluff,52.02262,-3.103875,652.58,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,https://www.flysouthwales.co.uk/site-guides,"N,NE,NW",flights
 Heol Senni,51.8892,-3.58188,528.27,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"N,NE,E",flights
@@ -252,19 +252,19 @@ Herne Bay,51.375045,1.175235,31.88,South East,https://t.me/joinchat/GOaWSlE5YAsw
 Heron Pike,54.46479,-2.99615,592.56,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"SW,W",flights
 High And Over,50.79118,0.14232,77.02,South East,https://t.me/joinchat/GOaWSlE5YAswZjc0,,,https://www.shgc.org.uk/highandover,"E,SE",flights
 High Cap,54.70132,-2.526485,516.52,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"SW,W",flights
-High Street,54.493725,-2.862045,800.07,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"NE,E,SE",terrain
+High Street,54.493725,-2.862045,800.07,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"NE,SE",terrain
 High Wheeldon,53.190085,-1.850865,361.98,Central,https://t.me/joinchat/5iHr6hnc-gI4MDg0,,,,SW,flights
 Rhossili,51.5746054,-4.2844218,108.04,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"W,NW",flights
 Hill Farm,52.69155,0.81357,70.54,East,https://t.me/joinchat/1oNELt0BqesxNjJk,,,,"N,NE,E,SE,S,SW,W,NW",flights
 Hill Of Noth,57.35942,-2.816895,387.39,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,SE,flights
-Hogden Law,55.407675,-2.07423,453.67,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"N,NE,E",terrain
+Hogden Law,55.407675,-2.07423,453.67,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"NE,E",terrain
 Horden,54.76379,-1.29924,42.66,North East,https://t.me/joinchat/1uCqybLRETIyNTRk,,,,"N,NE,E",terrain
 Hordon,54.791255,-1.311755,0.51,North East,https://t.me/joinchat/1uCqybLRETIyNTRk,,,,E,few_flights
 Hownam,55.48852,-2.329,369.02,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"SE,S,W,NW",terrain
 Huish,51.37337,-1.78157,224.02,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,,"S,SW,W",terrain
 Humbleton Hill,55.54903,-2.05217,268.6,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"N,NE,E",flights
 Ill Bell,54.494695,-2.944195,195.57,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,,
-Ingleborough,54.17053,-2.38332,603.05,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,,"N,W,NW",flights
+Ingleborough,54.17053,-2.38332,603.05,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,,"N,NW",flights
 Jenkin,54.63073,-3.120965,588.75,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=JKH,"S,SW",flights
 Johnny Barnes,54.231355,-2.55285,326.92,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,,W,flights
 Kerloch,56.98236,-2.503035,505.15,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,NE,NW",terrain
@@ -277,49 +277,49 @@ Kintail,57.222515,-5.40846,124.96,Highlands,https://t.me/joinchat/gx0JDL-JdONiMG
 Knitson,50.62963,-1.99473,176.64,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,http://www.wessexhgpg.org.uk/Sites/Siteguide/FullSiteGuide.pdf,"N,NE,S",flights
 Knock Hill,57.58362,-2.77698,410.01,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"SW,W",flights
 Knock Of Formal,56.67662,-3.2127,324.08,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"SE,S,SW",terrain
-Langdales,54.4554,-3.104655,534.53,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=GLG,"N,SE,S,SW,W",flights
+Langdales,54.4554,-3.104655,534.53,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=GLG,"N,SE,S,SW",flights
 Langholm,55.19375,-3.01533,303.84,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"E,SE,S,SW",flights
 Latrigg,54.6126,-3.1208,341.83,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=LTR,"SW,W",flights
 Lawley,52.58052,-2.73953,276.3,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,,,"N,NW",flights
 Leavesleys Hill,52.50114,-3.03457,362.96,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,,,"SE,S",terrain
-Leckhampton,51.86505,-2.06652,264.31,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,http://www.joomla.malvern-hang.org.uk/index.php/leckhampton,"N,NE,NW",flights
+Leckhampton,51.86505,-2.06652,264.31,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,http://www.joomla.malvern-hang.org.uk/index.php/leckhampton,"N,NE",flights
 Liddington,51.51725,-1.70132,238.35,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,https://www.tvhgc.co.uk/liddington,NW,flights
-Little London,52.48875,-3.41212,341.99,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,,,"N,W,NW",terrain
+Little London,52.48875,-3.41212,341.99,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,,,"W,NW",terrain
 Little Mell Fell,54.606925,-2.890945,460.54,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"E,SE,S",terrain
 Little Wyvis,57.64492,-4.63332,684.91,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"W,NW",terrain
 Llanbedr,51.90815,-3.122905,417.98,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"NE,E",terrain
 Llandewi Brefi,52.16727,-3.971565,287.92,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,,,"W,NW",flights
-Llandinam,52.471895,-3.42457,398.38,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,,,"SW,W,NW",flights
+Llandinam,52.471895,-3.42457,398.38,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,,,"W,NW",flights
 Llangollen,52.95615,-3.13631,371.81,North Wales,https://t.me/joinchat/tP6m0r9gNJJmOTM8,,,,"N,NW",flights
 Llangorse,51.93855,-3.2232,457.85,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"SW,W,NW",flights
 Llantysilio,52.99828,-3.26452,458.02,North Wales,https://t.me/joinchat/tP6m0r9gNJJmOTM8,,,,"SE,S,SW",flights
-Loadpot Hill,54.55643,-2.84407,651.12,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"SW,W,NW",terrain
+Loadpot Hill,54.55643,-2.84407,651.12,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"W,NW",terrain
 Lobden,53.661275,-2.15541,364.86,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,,S,flights
-Loch Torridon,57.56567,-5.595895,291.02,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"SE,S",terrain
+Loch Torridon,57.56567,-5.595895,291.02,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,S,terrain
 Lochcraig Head,55.452,-3.3145,768.73,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,http://www.wingbeat-paragliding.co.uk/index.php/sites/lochcraig-head,"E,SE",terrain
-Lochindorb,57.40333,-3.69412,413.17,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"SW,W,NW",terrain
+Lochindorb,57.40333,-3.69412,413.17,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"SW,W",terrain
 Lochlyock Hill,55.58799,-3.69897,463.16,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"SE,S,SW",flights
-Long Knoll,51.13749,-2.2909,245.37,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,http://www.avonhgpg.co.uk/sites/sites.php,"N,SE,S,SW",terrain
+Long Knoll,51.13749,-2.2909,245.37,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,http://www.avonhgpg.co.uk/sites/sites.php,"SE,S,SW",terrain
 Long Mountain,52.67568,-3.0631,352.3,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,,,"N,NW",flights
-Long Mynd,52.52245,-2.88137,396.99,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,,http://www.longmynd.org/?page_id=284,"SW,W,NW",flights
-Long Mynd Black Knoll,52.494585,-2.8957,383.22,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,,,"SW,W,NW",flights
+Long Mynd,52.52245,-2.88137,396.99,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,,http://www.longmynd.org/?page_id=284,"W,NW",flights
+Long Mynd Black Knoll,52.494585,-2.8957,383.22,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,,,"W,NW",flights
 Longridge,53.85948,-2.54372,281.3,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,http://www.penninesoaringclub.org.uk/sites/longridge/,"N,NW",flights
 Longstone Edge,53.25455,-1.695635,347.8,Central,https://t.me/joinchat/5iHr6hnc-gI4MDg0,,,,"SE,S",flights
 Lords Seat / Rushup,53.3476582,-1.8266357,495.27,Central,https://t.me/joinchat/5iHr6hnc-gI4MDg0,,,https://derbyshiresoaringclub.org.uk/site-guide/lords-seat,"N,NE,SE,S,NW",flights
 Lowther,55.37818,-3.75755,673.48,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"SW,W",terrain
-Lumsden Law,55.34366,-2.43517,468.4,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"N,NE,NW",terrain
+Lumsden Law,55.34366,-2.43517,468.4,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"N,NW",terrain
 Magic,51.888485,-3.14114,597.53,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"SE,S,SW",flights
-Maiden Castle,50.6968,-2.468465,104.04,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,http://www.wessexhgpg.org.uk/Sites/Siteguide/FullSiteGuide.pdf,"N,NE,E,NW",terrain
+Maiden Castle,50.6968,-2.468465,104.04,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,http://www.wessexhgpg.org.uk/Sites/Siteguide/FullSiteGuide.pdf,"N,NE",terrain
 Mallerstang,54.420285,-2.30946,617.05,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,,"N,W,NW",flights
 Malvern,52.07678,-2.33935,329.72,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,,"NE,E,SE",flights
-Mam Tor,53.34995,-1.80867,483.94,Central,https://t.me/joinchat/5iHr6hnc-gI4MDg0,,,https://derbyshiresoaringclub.org.uk/site-guide/mam-tor-nw,"N,NE,E,SE,NW",flights
+Mam Tor,53.34995,-1.80867,483.94,Central,https://t.me/joinchat/5iHr6hnc-gI4MDg0,,,https://derbyshiresoaringclub.org.uk/site-guide/mam-tor-nw,"NE,E,SE,NW",flights
 Marske,54.595635,-1.011055,19.43,North East,https://t.me/joinchat/1uCqybLRETIyNTRk,,,,"N,NE",flights
 Mauld,57.40223,-4.66152,260.12,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"W,NW",terrain
 Meall A Bhuachaille,57.18303,-3.67267,762.13,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"S,SW",flights
 Meall A Bhuiridh,56.61175,-4.84418,1036.96,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"E,SE",flights
 Meall A Chaorainn,56.739475,-5.090165,622.8,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"SW,W",terrain
 Meall An T-Seallaidh,56.36672,-4.34837,614.91,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"NE,S,SW",flights
-Meall Bhanbhaid,56.863775,-5.091255,311.39,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,NE,E,SE,S",terrain
+Meall Bhanbhaid,56.863775,-5.091255,311.39,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,SE,S",terrain
 Meall Donn,57.25252,-4.36915,459,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"SW,W,NW",terrain
 Meall Leacachain,57.75313,-4.9743,524.08,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,SW,terrain
 Meall Monachyle,56.34988,-4.48517,565.09,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"SE,S,SW,W",terrain
@@ -328,11 +328,11 @@ Melmerby Low Scar,54.73657,-2.57178,496.36,Lakes,https://t.me/joinchat/nexjPNs95
 Mendips,51.26302,-2.73075,266.17,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,,"S,SW,W",few_flights
 Menstrie,56.15962,-3.84355,316.5,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"S,SW",flights
 Mercury,50.97413,-1.03855,223.41,South East,https://t.me/joinchat/GOaWSlE5YAswZjc0,,,http://skysurfingclub.co.uk/sites-guide/,"NE,E",flights
-Mere,51.10858,-2.272205,218.22,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,http://www.avonhgpg.co.uk/sites/sites.php,"SE,S,SW",flights
+Mere,51.10858,-2.272205,218.22,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,http://www.avonhgpg.co.uk/sites/sites.php,"SE,S",flights
 Merthyr,51.72333,-3.33597,412.99,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"SW,W",flights
 Mid Eildon,55.58695,-2.70832,385.37,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"N,NE,E,SE,W,NW",flights
-Middle Of Nowhere,56.911,-4.318965,807.56,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"SE,W,NW",terrain
-Middleark,54.39815,-2.3607,528.39,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,,"NE,E,SE",terrain
+Middle Of Nowhere,56.911,-4.318965,807.56,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"SE,NW",terrain
+Middleark,54.39815,-2.3607,528.39,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,,"E,SE",terrain
 Milk Hill White Horse,51.37282,-1.85684,263.67,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,https://www.tvhgc.co.uk/milk-hill-white-horse,"S,SW",flights
 Milk Massif,51.37321,-1.7441,272.92,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,https://www.tvhgc.co.uk/milk-hill,"NE,E,SE",flights
 Millington,53.95217,-0.72655,156.22,North East,https://t.me/joinchat/1uCqybLRETIyNTRk,TRUE,Sensitive. Flagged exclude at request of Caley Club sites officer,https://cayleyparagliding.co.uk/paragliding-at-millington/,"W,NW",flights
@@ -345,7 +345,7 @@ Molls Cleuch Dod,55.445425,-3.35529,591.74,Borders,https://t.me/joinchat/gQNkjnu
 Moneylaws,55.60686,-2.205535,207.67,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"N,NW",flights
 Monksdown,50.98638,-2.087075,232.22,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,TRUE,Removed at Wessex request. New landowner does not permit flying.,http://www.wessexhgpg.org.uk/Sites/SiteGuide/MonksDown.pdf,"N,NE",flights
 Moorfoots,55.77353,-3.04622,422.35,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"N,NW",flights
-Morrone,56.98075,-3.42837,851.48,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"NE,E,S,SW,W,NW",flights
+Morrone,56.98075,-3.42837,851.48,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"NE,E,S,W,NW",flights
 Moruisg,57.51735,-5.16415,558.8,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"N,NW",flights
 Morven,57.12432,-2.99882,598.37,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"NE,E,SE",flights
 Mount Benger,55.53187,-3.09345,447.27,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,http://www.wingbeat-paragliding.co.uk/index.php/sites/mountbenger,"SW,W,NW",terrain
@@ -353,18 +353,18 @@ Mount Caburn,50.86133,0.050325,140.71,South East,https://t.me/joinchat/GOaWSlE5Y
 Much Marcle,51.99117,-2.53972,169.67,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,http://www.joomla.malvern-hang.org.uk/index.php/main-much-marcle,"SW,W",terrain
 Murton Pike,54.60163,-2.41442,539.55,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=MTP,"S,SW,W",flights
 Mynydd Llysiau,51.9469,-3.158625,631.89,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"NE,E,SW,W,NW",terrain
-Mynydd Meio,51.586525,-3.280885,306.6,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"S,SW,W",terrain
+Mynydd Meio,51.586525,-3.280885,306.6,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"SW,W",terrain
 Myreton,56.16015,-3.84343,338.63,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"S,SW",flights
 Na Cnapanan,56.96742,-4.5118,662.29,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"N,S,SW,W,NW",flights
 Nant,52.96924,-4.459285,240.01,North Wales,https://t.me/joinchat/tP6m0r9gNJJmOTM8,,,,"W,NW",flights
 Nant Y Moel,51.632525,-3.52589,495.82,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"S,SW,W",flights
 Near Abington,55.486375,-3.67649,353.23,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"N,W,NW",terrain
-Nevis Range,56.84188,-4.97152,630.66,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,W,NW",flights
+Nevis Range,56.84188,-4.97152,630.66,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,NW",flights
 Newburgh,56.35788,-3.19452,103.8,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,NW,terrain
 Newgale,51.83807,-5.112865,51.66,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"SW,W",terrain
 Newhaven,50.782,0.04792,50.15,South East,https://t.me/joinchat/GOaWSlE5YAswZjc0,,,https://shgc.org.uk/siteguidepdf,"S,SW",flights
 Nont Sarahs,53.61865,-1.97303,442.36,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,http://www.penninesoaringclub.org.uk/sites/nont-sarahs/,S,flights
-Nr Broughton,55.61485,-3.39281,346.79,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"S,SW,W",terrain
+Nr Broughton,55.61485,-3.39281,346.79,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"SW,W",terrain
 Nr Dolgarrog,53.17441,-3.87424,507.02,North Wales,https://t.me/joinchat/tP6m0r9gNJJmOTM8,,,,"E,SE",terrain
 Old Bewick,55.48752,-1.87987,216.66,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"SE,S,SW",terrain
 Pandy,51.90795,-2.99456,393.39,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"NE,E",flights
@@ -372,7 +372,7 @@ Pandy Ridge,51.93762,-3.00817,486.1,South Wales,https://t.me/joinchat/ksosguoLjy
 Panorama,52.98267,-3.13775,364.37,North Wales,https://t.me/joinchat/tP6m0r9gNJJmOTM8,,,,"S,SW",terrain
 Park Fell,54.18967,-2.35993,541.22,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,TRUE,Active Edge school site,"Training site, contact Active Edge before flying https://www.activeedge.co.uk/","N,NE,E,NW",flights
 Parlick,53.89987,-2.61796,414.71,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,http://www.penninesoaringclub.org.uk/sites/parlick/,"E,SE,S,SW,W",flights
-Parracombe,51.17836,-3.87586,398.63,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,,"N,W,NW",terrain
+Parracombe,51.17836,-3.87586,398.63,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,,"W,NW",terrain
 Pen Dinas,52.39909,-4.089325,20.93,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,,,W,flights
 Pen Y Fan,51.88303,-3.44538,722.17,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"SW,W",flights
 Pendle,53.857325,-2.33822,411.21,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,http://www.penninesoaringclub.org.uk/sites/pendle/,"W,NW",flights
@@ -382,15 +382,15 @@ Penycloddiau,53.2048,-3.30875,392.74,North Wales,https://t.me/joinchat/tP6m0r9gN
 Penyghent,54.159015,-2.250465,633.56,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,,"SE,S,W",flights
 Pinnacle Hill,52.07676,-2.33912,324.22,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,,"NE,E,SE",flights
 Pontlottyn,51.738675,-3.281915,411.4,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"NE,E",flights
-Pressendye,57.167715,-2.84776,584.66,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"SW,W",flights
+Pressendye,57.167715,-2.84776,584.66,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,SW,flights
 Primrose Valley,54.19188,-0.2823,33.84,North East,https://t.me/joinchat/1uCqybLRETIyNTRk,,,https://cayleyparagliding.co.uk/paragliding-primrose-valley/,"NE,E,SE",flights
 Quinag,58.19839,-5.023595,353.77,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,NE,flights
-Quiraing,57.6291,-6.28901,251.72,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"NE,E",flights
+Quiraing,57.6291,-6.28901,251.72,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,E,flights
 Radar Masts,54.7572,-2.574685,464.22,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"SW,W",flights
 Rebecca,54.19645,-3.182425,156.31,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=RBA,"W,NW",flights
-Red Pike,54.52747,-3.29862,754.62,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"N,NE,E,NW",terrain
+Red Pike,54.52747,-3.29862,754.62,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"N,NE,NW",terrain
 Red Screes,54.46935,-2.93378,754.25,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"SE,S",flights
-Reighton,54.16498,-0.24596,53.98,North East,https://t.me/joinchat/1uCqybLRETIyNTRk,,,https://cayleyparagliding.co.uk/paragliding-reighton/,"NE,E",flights
+Reighton,54.16498,-0.24596,53.98,North East,https://t.me/joinchat/1uCqybLRETIyNTRk,,,https://cayleyparagliding.co.uk/paragliding-reighton/,NE,flights
 Rhiw Wen,51.855975,-3.848115,474.63,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"N,NW",flights
 Ringstead,50.640175,-2.34191,132.22,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,http://www.wessexhgpg.org.uk/Sites/Siteguide/FullSiteGuide.pdf,"S,SW",flights
 Roaches,53.169285,-2.003125,438.18,Central,https://t.me/joinchat/5iHr6hnc-gI4MDg0,,,,"SW,W",flights
@@ -399,20 +399,20 @@ Roel Gate,51.91705,-1.924425,278.12,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,
 Rough Knowe,55.52201,-2.99485,356.28,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"N,S,SW",flights
 Rutland Airsports,52.630445,-0.605775,105.11,East,https://t.me/joinchat/1oNELt0BqesxNjJk,,,https://rutlandairsport.wordpress.com/site-guide/,"N,NE,E,SE,S,SW,W",flights
 Rybury,51.37278,-1.88167,204.88,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,https://www.tvhgc.co.uk/rybury,"SE,SW,W",flights
-Saddle Yoke,55.38602,-3.34808,465.6,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"S,SW,W",terrain
+Saddle Yoke,55.38602,-3.34808,465.6,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"SW,W",terrain
 Sandymouth,50.85997,-4.55508,50.48,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,,"W,NW",flights
 Sarn,52.50295,-3.14252,400.27,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,,,"N,NW",flights
 Scales Fell,54.63858,-3.02565,581.87,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"SE,S",flights
 Schiehallion,56.666075,-4.07636,873.5,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,NE,E,SW",flights
 Seat Sandal,54.49046,-3.03585,222.21,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,S,terrain
-Selsley,51.72742,-2.25043,195.11,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,http://www.avonhgpg.co.uk/sites/sites.php,"N,W,NW",flights
+Selsley,51.72742,-2.25043,195.11,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,http://www.avonhgpg.co.uk/sites/sites.php,"N,NW",flights
 Semer Water,54.28856,-2.13954,454.17,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,https://www.dhpc.org.uk/site-guide/semer-water,"E,SE,S",flights
 Seven Sisters,51.7471,-3.70062,427.16,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"W,NW",flights
-Sgor Gaoithe,57.27755,-3.53576,600.53,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"S,SW,W,NW",terrain
+Sgor Gaoithe,57.27755,-3.53576,600.53,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"S,SW,NW",terrain
 Sgurr An Airgid,57.237705,-5.39644,11.56,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,SE,few_flights
 Sgurr An Fhuarail,57.16208,-5.201,573.05,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"SE,S,W",flights
 Sgurr Finniosgaig,56.842225,-4.971065,618.98,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,NW",flights
-Sgurr Na Feartaig,57.467725,-5.246675,770.74,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"N,NE,W,NW",terrain
+Sgurr Na Feartaig,57.467725,-5.246675,770.74,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"N,NE,NW",terrain
 Sharpenhoe,51.9582,-0.44589,140.29,Dunstable,https://t.me/+zpCRlLWf29RmNTRk,,,https://dunstablehpc.com/site-guides/sharpenhoe-site-guide/,"NE,E",flights
 Shining Tor,53.258625,-2.01091,505.88,Central,https://t.me/joinchat/5iHr6hnc-gI4MDg0,,,,W,flights
 Simon Fell,54.16994,-2.369575,608.97,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,TRUE,Active Edge school site,,"N,NE,E,SE",flights
@@ -426,13 +426,13 @@ South Cerney,51.68687,-1.92145,108.45,West,https://t.me/joinchat/xxEzm4aeX6dhNTJ
 Southbourne,50.7215,-1.8166,23.48,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,http://www.wessexhgpg.org.uk/Sites/Siteguide/FullSiteGuide.pdf,"SE,S,SW",flights
 Souther Fell,54.652675,-2.998565,463.91,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=SRF,"E,SE",flights
 Sow Of Athol,56.83914,-4.255375,772.77,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,NE,E,NW",terrain
-Sron A Gharbh Choire Bhig,56.68805,-5.39589,273.25,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"NE,E,SE,S,SW",terrain
+Sron A Gharbh Choire Bhig,56.68805,-5.39589,273.25,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"E,SE,S,SW",terrain
 St Bees,54.512705,-3.63922,14.49,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=SBS,"SW,W",few_flights
 St Cats,50.5964,-1.30578,182.84,Isle of Wight,https://t.me/joinchat/tSmGEGKwsGpkMTg0,,,,"W,NW",flights
 St. Aldhelms,50.59287,-2.05952,113.38,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,http://www.wessexhgpg.org.uk/Sites/Siteguide/FullSiteGuide.pdf,"SW,W",flights
 St. Bees,54.489875,-3.61055,0.05,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"SW,W",flights
 Stags Fell,54.3266,-2.19745,476.25,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,https://www.dhpc.org.uk/site-guide/stags-fell,"S,SW",flights
-Stanage,53.34632,-1.63178,420.74,Central,https://t.me/joinchat/5iHr6hnc-gI4MDg0,,,https://derbyshiresoaringclub.org.uk/site-guide/stanage,"S,SW,W",flights
+Stanage,53.34632,-1.63178,420.74,Central,https://t.me/joinchat/5iHr6hnc-gI4MDg0,,,https://derbyshiresoaringclub.org.uk/site-guide/stanage,"SW,W",flights
 Standon Hill,50.612875,-4.04571,426.88,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,,"S,SW,W",terrain
 Stoodley Pike,53.71378,-2.04317,373.05,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,,"W,NW",flights
 Strath Rusdale,57.768515,-4.37814,530.31,Highlands,https://t.me/joinchat/gx0JDL-JdONiMGZk,,,,"S,SW,W",terrain
@@ -441,11 +441,11 @@ Stronend,56.07711,-4.20669,474.21,South Scotland & Grampian,https://t.me/joincha
 Struddick,50.366,-4.40427,132.77,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,,"S,SW",flights
 Sugar Hill,51.50662,-1.65892,202.46,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,https://www.tvhgc.co.uk/sugar-hill,"S,SW,W",terrain
 Sugar Loaf,51.84308,-3.05893,345.94,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"S,SW",terrain
-Suidhe Fhearghas,55.660675,-5.19681,532.36,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"NE,E,SE,S",terrain
+Suidhe Fhearghas,55.660675,-5.19681,532.36,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"E,SE",terrain
 Swallowcliffe,51.03013,-2.03677,179.99,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,http://www.wessexhgpg.org.uk/Sites/Siteguide/FullSiteGuide.pdf,"N,NW",flights
 Swarth Fell,54.36477,-2.37548,648.12,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,,"NE,E",flights
-Swindale,54.544775,-3.029695,737.75,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"N,NE,W,NW",terrain
-Swinside,54.60806,-3.281725,393.05,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=SWS,"SW,W,NW",flights
+Swindale,54.544775,-3.029695,737.75,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"N,NW",terrain
+Swinside,54.60806,-3.281725,393.05,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=SWS,"SW,W",flights
 Tailbridge,54.438585,-2.304225,490.94,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,https://www.dhpc.org.uk/site-guide/tailbridge,"SW,W",flights
 Talybont,51.86419,-3.35693,684.44,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,,,"E,SE,S,SW",flights
 Tarmachan,56.51268,-4.292435,780.07,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"E,SE,S",flights
@@ -455,30 +455,30 @@ Thundergay,55.65658,-5.3462,403.45,South Scotland & Grampian,https://t.me/joinch
 Thurnham,51.29471,0.588415,166.78,South East,https://t.me/joinchat/GOaWSlE5YAswZjc0,,,https://www.dfhgc.org/sites/thurnham,"S,SW",flights
 Tinto,55.59112,-3.701085,500.04,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"N,S,NW",flights
 Tinto East,55.60432,-3.65757,463.88,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"N,NW",flights
-Tow Scar,54.1746,-2.480905,319.18,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,TRUE,Active Edge school site,,"S,SW,W",terrain
+Tow Scar,54.1746,-2.480905,319.18,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,TRUE,Active Edge school site,,"SW,W",terrain
 Tops Of Fichell,56.79968,-3.01902,488.94,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"SW,W,NW",flights
-Treak Cliff,53.34285,-1.79862,374.51,Central,https://t.me/joinchat/5iHr6hnc-gI4MDg0,,,https://derbyshiresoaringclub.org.uk/site-guide/treak-cliff,"N,NE,E",flights
+Treak Cliff,53.34285,-1.79862,374.51,Central,https://t.me/joinchat/5iHr6hnc-gI4MDg0,,,https://derbyshiresoaringclub.org.uk/site-guide/treak-cliff,"NE,E",flights
 Builth Wells,52.163375,-3.340835,401.68,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,Overlaps Tremain and Fforest Fields,http://www.malvern-hang.org.uk/index.php?option=com_content&view=article&id=97&catid=11&Itemid=105,"N,NW",flights
-Trentishoe,51.21494,-3.96708,266.86,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,https://ndhpc.co.uk/sites_guide/trentishoe,"N,NW",flights
+Trentishoe,51.21494,-3.96708,266.86,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,https://ndhpc.co.uk/sites_guide/trentishoe,N,flights
 Tresparret,50.71204,-4.65161,239.58,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,,"N,NW",terrain
-Triscombe,51.10595,-3.19767,248.66,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,,"SW,W",terrain
+Triscombe,51.10595,-3.19767,248.66,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,,SW,terrain
 Troutbeck,54.420885,-2.887085,439.21,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=TBK,"W,NW",flights
 Tudhope Hill,55.280345,-2.895935,527.09,Borders,https://t.me/joinchat/gQNkjnuA51IwOTg0,,,,"S,SW",flights
 Ubley,51.31175,-2.67549,225.61,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,http://www.avonhgpg.co.uk/sites/sites.php,"N,NE",flights
-Uffington,51.57718,-1.567135,234.92,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,https://www.tvhgc.co.uk/uffington-white-horse,"N,NE,NW",flights
+Uffington,51.57718,-1.567135,234.92,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,https://www.tvhgc.co.uk/uffington-white-horse,"N,NW",flights
 Ullock,54.66175,-3.17945,314.02,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=ULP,"NE,W,NW",flights
 Walla,54.58312,-3.118915,363.13,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=WAC,"W,NW",flights
 Warren,51.1016,1.22615,143.3,South East,https://t.me/joinchat/GOaWSlE5YAswZjc0,,,https://www.dfhgc.org/sites/warren,"SE,S,SW",flights
 Wasdale Screes,54.417075,-3.31664,358.29,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,NW,flights
 West Lomand,56.24695,-3.30207,425.53,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,W,NW",terrain
-Westbury,51.2626,-2.14746,201.21,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,http://www.avonhgpg.co.uk/sites/sites.php,"N,W,NW",flights
+Westbury,51.2626,-2.14746,201.21,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,http://www.avonhgpg.co.uk/sites/sites.php,"W,NW",flights
 Westward Ho!,51.035975,-4.25735,55.32,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,https://ndhpc.co.uk/sites_guide/cornborough,"N,NW",flights
-Wether Fell,54.27013,-2.20558,549.72,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,https://www.dhpc.org.uk/site-guide/wether-fell,"SW,W,NW",flights
+Wether Fell,54.27013,-2.20558,549.72,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,https://www.dhpc.org.uk/site-guide/wether-fell,"W,NW",flights
 Weybourne,52.948605,1.14494,8.63,East,https://t.me/joinchat/1oNELt0BqesxNjJk,,,,"N,NE",flights
 Whernside,54.207335,-2.41976,535.06,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,https://www.dhpc.org.uk/site-guide/whernside,"E,SE",flights
 White Corries,56.62787,-4.84022,717.03,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,NE,E",flights
 White Horse,50.6586,-2.40473,139.44,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,http://www.wessexhgpg.org.uk/Sites/SiteGuide/WhiteHorse.pdf,"S,SW",flights
-White Pike,54.47383,-3.090985,635.02,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"NE,E,SE",terrain
+White Pike,54.47383,-3.090985,635.02,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"E,SE",terrain
 Whiteless Pike,54.55924,-3.27151,607.69,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"N,SW,W,NW",terrain
 Whitesheet,51.01293,-2.09212,216.94,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,http://www.wessexhgpg.org.uk/Sites/SiteGuide/WhiteSheet.pdf,"SW,W",flights
 Whiteside,54.5864,-3.28691,671.69,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,W,flights
@@ -486,43 +486,43 @@ Whitestones,54.3809,-2.56474,409.56,Pennines & Dales,https://t.me/joinchat/NcCY7
 Whitewool,50.97898,-1.075675,181.24,South East,https://t.me/joinchat/GOaWSlE5YAswZjc0,,,http://skysurfingclub.co.uk/sites-guide/,"NE,E",flights
 Widgery Cross,50.65193,-4.06855,440.61,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,,"SW,W",flights
 Windbank,54.12924,-2.05327,375.56,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,,"S,SW",flights
-Winter Hill,53.62974,-2.513545,450.9,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,http://www.penninesoaringclub.org.uk/sites/winter-hill/,"N,NE,E",terrain
+Winter Hill,53.62974,-2.513545,450.9,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,,http://www.penninesoaringclub.org.uk/sites/winter-hill/,"N,NE",terrain
 Wolf Crags,54.5922,-2.986195,516.14,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=WFC,"N,NE,NW",flights
 Woolacombe,51.15888,-4.20607,163.14,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,,https://ndhpc.co.uk/sites_guide/woolacombe_site_guide,"W,NW",flights
-Worcester Beacon,52.10445,-2.3394,416.1,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,http://www.joomla.malvern-hang.org.uk/index.php/beacon,"NE,E,SE,SW,W",flights
+Worcester Beacon,52.10445,-2.3394,416.1,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,,,http://www.joomla.malvern-hang.org.uk/index.php/beacon,"NE,SE,SW,W",flights
 Wrekin,52.66943,-2.55195,379.34,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,,http://www.longmynd.org/?page_id=292,"N,E,SE,S,NW",flights
 Wrynose,54.41832,-3.1118,448.84,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,http://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=WYP,"N,NE,E,SE",flights
-Xclent,51.91455,-1.92412,270.53,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,TRUE,Tow site,,"N,NE,E,SE,S,SW,W,NW",flights
-Yoke,54.450355,-2.86792,649.53,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"N,NE,E,SE,S,NW",flights
+Xclent,51.91455,-1.92412,270.53,West,https://t.me/joinchat/xxEzm4aeX6dhNTJk,TRUE,Tow site,,"N,NE,E,SE,SW,W,NW",flights
+Yoke,54.450355,-2.86792,649.53,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,,,"N,E,SE,S,NW",flights
 Gargunnock,56.11127,-4.08335,239.42,South Scotland & Grampian,https://t.me/joinchat/WLIel5HDs6ViOThk,,,,"N,NW",flights
-Pule,53.5902168,-1.9534149,417.58,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,Manually added,http://www.penninesoaringclub.org.uk/sites/pule-hill/,"S,SW,W,NW",terrain
+Pule,53.5902168,-1.9534149,417.58,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,Manually added,http://www.penninesoaringclub.org.uk/sites/pule-hill/,"SW,W",terrain
 Holme Moss,53.5320572,-1.8554027,515.18,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,Manually added. Non-club site.,,NE,terrain
-Beddugre Hill,52.3207433,-3.3395227,385.85,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,Manually added,https://paraglidingwales.co.uk/general-information/beddugre-hill/,"S,SW,W",terrain
+Beddugre Hill,52.3207433,-3.3395227,385.85,Mid Wales & Mynd,https://t.me/joinchat/RuC0kVJ1ygY2OTY8,,Manually added,https://paraglidingwales.co.uk/general-information/beddugre-hill/,"SW,W",terrain
 Tremaen,52.1550797,-3.350386,361.51,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,Manually repaired,https://paraglidingwales.co.uk/general-information/tremaen/,"N,W,NW",flights
 Carn Brea,50.232397,-5.3880747,202.26,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,Manually added,https://www.khpa.co.uk/?page_id=91.html,"S,SW,W",terrain
 Hayle Towans,50.210055,-5.4110687,0.56,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,Manually added,https://www.khpa.co.uk/?page_id=263.html,,
-Chapel Porth,50.304673,-5.2321102,74.16,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,TRUE,Manually added. Closed by National Trust.,https://www.khpa.co.uk/?page_id=97.html,"W,NW",terrain
+Chapel Porth,50.304673,-5.2321102,74.16,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,TRUE,Manually added. Closed by National Trust.,https://www.khpa.co.uk/?page_id=97.html,W,terrain
 Perranporth,50.360948,-5.1505369,7,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,Manually added,https://www.khpa.co.uk/?page_id=147.html,NW,few_flights
-Sennen,50.078602,-5.6927941,76,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,Manually added,https://www.khpa.co.uk/?page_id=19.html,"N,W,NW",terrain
+Sennen,50.078602,-5.6927941,76,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,Manually added,https://www.khpa.co.uk/?page_id=19.html,"N,NW",terrain
 St Agnes,50.318383,-5.2300232,89.97,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,TRUE,Manually added. Closed by National Trust.,https://www.khpa.co.uk/?page_id=157.html,"N,NW",terrain
 Maker,50.340889,-4.1961917,103.09,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,Manually added,https://sdhgpc.org.uk/sites/maker,SE,terrain
 Battern Cliffs,50.3635864,-4.3497777,138.68,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,Manually added,https://sdhgpc.org.uk/sites/battern,"S,SW",terrain
-Beesands,50.2487484,-3.6617313,101.86,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,Manually added,https://sdhgpc.org.uk/sites/beesands,"N,NE,E,SE",terrain
+Beesands,50.2487484,-3.6617313,101.86,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,Manually added,https://sdhgpc.org.uk/sites/beesands,"NE,E",terrain
 Dizzard,50.7642574,-4.5907917,105.19,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,Manually added,https://sdhgpc.org.uk/sites/dizzard,"N,NW",terrain
-Polhawn Fields,50.3233616,-4.2180639,55.01,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,Manually added,https://sdhgpc.org.uk/sites/polhawn,"SW,W,NW",terrain
-Strete,50.3027143,-3.6379028,96.71,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,Manually added,https://sdhgpc.org.uk/sites/strete,"E,SE,S",terrain
+Polhawn Fields,50.3233616,-4.2180639,55.01,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,Manually added,https://sdhgpc.org.uk/sites/polhawn,"W,NW",terrain
+Strete,50.3027143,-3.6379028,96.71,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,Manually added,https://sdhgpc.org.uk/sites/strete,"E,SE",terrain
 Trethill Cliffs,50.3615238,-4.2941002,96.71,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,TRUE,Manually added. Closed.,https://sdhgpc.org.uk/sites/trethill,"S,SW",terrain
-Cox Tor,50.5685094,-4.0789566,397.4,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,Manually added,https://sdhgpc.org.uk/sites/cox-tor,"SW,W,NW",terrain
+Cox Tor,50.5685094,-4.0789566,397.4,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,Manually added,https://sdhgpc.org.uk/sites/cox-tor,"W,NW",terrain
 Meldon Hill,50.6607304,-3.84927,365.68,South West,https://t.me/joinchat/yg6UPwjHlFNhOGVk,,Manually added,https://sdhgpc.org.uk/sites/meldon,"N,W,NW",terrain
 Blackstone Edge,53.6454542,-2.0498977,342.81,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,Manually added. Non-club site.,,"W,NW",terrain
 Waystone Edge,53.6252652,-1.9833457,439.47,Pennines & Dales,https://t.me/joinchat/NcCY7NcPJ3lkMTZk,,Manually added. Non-club site.,,"N,NE,NW",terrain
 Marros,51.737142,-4.625674,85.03,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,Manually added,https://www.swwsc.co.uk/marrows,"SE,S",terrain
 Ferryside,51.751952,-4.373048,70.32,South Wales,https://t.me/joinchat/ksosguoLjyI0ZGFk,,Manually added,https://swwsc.co.uk/ferryside,"S,SW,W,NW",terrain
-Snowdon Summit,53.0684065,-4.0788003,1085,North Wales,https://t.me/joinchat/tP6m0r9gNJJmOTM8,,Manually added,,"SW,W",terrain
+Snowdon Summit,53.0684065,-4.0788003,1085,North Wales,https://t.me/joinchat/tP6m0r9gNJJmOTM8,,Manually added,,W,terrain
 Nant Gwythern,52.9765561,-4.4433276,300,North Wales,https://t.me/joinchat/tP6m0r9gNJJmOTM8,,Manually added,https://www.snowdoniaskysports.co.uk/node/24,"W,NW",terrain
 Tremadog,52.9430731,-4.1493237,150,North Wales,https://t.me/joinchat/tP6m0r9gNJJmOTM8,,Manually added,https://www.snowdoniaskysports.co.uk/node/26,"S,SW,W",terrain
 Bleansey,54.294763,-3.223011,153,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,Manually added,https://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=BLY,"E,SE",terrain
 Burlington,54.244497,-3.161966,153,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,Manually added,https://www.cumbriasoaringclub.co.uk/SiteManagement/CSC_Specific_Site.php?site=BLG,"N,W,NW",terrain
-Hoad Hill,54.202481,-3.082932,133,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,Manually added. Non-club site.,,"E,SE,S,SW",terrain
+Hoad Hill,54.202481,-3.082932,133,Lakes,https://t.me/joinchat/nexjPNs95rY4Yzk8,,Manually added. Non-club site.,,"E,SE,S",terrain
 Mappleton,53.876734,-0.13394,10,North East,https://t.me/joinchat/1uCqybLRETIyNTRk,,Manually added. Non-club site.,https://cayleyparagliding.co.uk/site/mappleton/,"NE,E",flights
-Beachy Head,50.7391,0.25343,113,South East,https://t.me/joinchat/GOaWSlE5YAswZjc0,,Manually added,https://shgc.org.uk/sites/beachy-head,"E,SE,S",terrain
+Beachy Head,50.7391,0.25343,113,South East,https://t.me/joinchat/GOaWSlE5YAswZjc0,,Manually added,https://shgc.org.uk/sites/beachy-head,"SE,S",terrain
